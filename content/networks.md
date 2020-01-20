@@ -13,7 +13,7 @@ If you know of any networks not on this list please <a href="mailto:contact@mesh
 | :--------------------- | :------------------------- | :------------------------------- | :------------------------------------ |
 | AWMN                   | Athens, Greece             | <http://www.awmn.net>            | -                                     |
 | B4RN                   | Rural North, England       | <https://b4rn.org.uk/>           | <https://twitter.com/dig2agig>        |
-| Chebucto Community Net | Halifax, Canada            | <http://www.chebucto.ns.ca>      |                                       |
+| Chebucto Community Net | Halifax, Canada            | <http://www.chebucto.ns.ca>      | <https://twitter.com/chebuctocommnet> |
 | Coolab                 | Brazil                     | <https://www.coolab.org>         | <https://twitter.com/coolabdiz>       |
 | Guifi                  | Spain                      | <https://guifi.net>              | -                                     |
 | Freifunk               | Germany                    | <https://freifunk.net>           | <https://twitter.com/freifunk>        |
