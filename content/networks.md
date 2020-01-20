@@ -12,12 +12,12 @@ If you know of any networks not on this list please <a href="mailto:contact@mesh
 | Name                   | Location                   | Website                          | Twitter                               |
 | :--------------------- | :------------------------- | :------------------------------- | :------------------------------------ |
 | AWMN                   | Athens, Greece             | <http://www.awmn.net>            | -                                     |
-| B4RN                   | Rural North, England       | <https://b4rn.org.uk/>           | <https://twitter.com/dig2agig>        |
+| B4RN                   | Rural North, England       | <https://b4rn.org.uk>            | <https://twitter.com/dig2agig>        |
 | Chebucto Community Net | Halifax, Canada            | <http://www.chebucto.ns.ca>      | <https://twitter.com/chebuctocommnet> |
 | Coolab                 | Brazil                     | <https://www.coolab.org>         | <https://twitter.com/coolabdiz>       |
 | Guifi                  | Spain                      | <https://guifi.net>              | -                                     |
 | Freifunk               | Germany                    | <https://freifunk.net>           | <https://twitter.com/freifunk>        |
-| Funkfeuer              | Austria                    | <https://funkfeuer.at/>          | <https://twitter.com/funkfeuer_at>    |
+| Funkfeuer              | Austria                    | <https://funkfeuer.at>           | <https://twitter.com/funkfeuer_at>    |
 | HNL Mesh               | Honolulu, Hawaii           | <http://www.hnlmesh.net>         | <https://twitter.com/HNLMesh>         |
 | Mesh 129               | Lane County, Oregon        | <https://mesh129.net>            | <https://twitter.com/mesh129net>      |
 | Meshnet PY             | Pondicherry, India         | <https://pymeshnet.gitlab.io>    | <https://twitter.com/pymesh>          |
@@ -29,15 +29,15 @@ If you know of any networks not on this list please <a href="mailto:contact@mesh
 | Personal Telco         | Portland, Oregon           | <https://personaltelco.net>      | <https://twitter.com/personaltelco>   |
 | People's Open          | Oakland, California        | <https://peoplesopen.net>        | <https://twitter.com/pplsopennet>     |
 | Philly Mesh            | Philadelphia, Pennsylvania | <https://phillymesh.net>         | <https://twitter.com/phillymesh>      |
-| Pjodd                  | Malmö, Sweden              | <https://pjodd.se/>              | -                                     |
+| Pjodd                  | Malmö, Sweden              | <https://pjodd.se>               | -                                     |
 | Redes AC México        | Mexico City, México        | <https://www.redesac.org.mx>     | <https://twitter.com/redesac_mx>      |
-| Santoporo.gr           | Santoporo, Greece          | <https://www.sarantaporo.gr/en/> | <https://twitter.com/Sarantaporogr>   |
+| Santoporo.gr           | Santoporo, Greece          | <https://www.sarantaporo.gr>     | <https://twitter.com/Sarantaporogr>   |
 | SOWN                   | Southampton, UK            | <https://www.sown.org.uk>        | -                                     |
 | Spokane Mesh           | Spokane, Washington        | <https://spokanemesh.net>        | <https://twitter.com/spokanemesh>     |
 | SudoMesh               | Oakland, California        | <https://sudoroom.org/wiki/Mesh> | <https://twitter.com/sudomesh>        |
 | Toronto Mesh           | Toronto, Canada            | <https://tomesh.net>             | <https://twitter.com/tomeshnet>       |
-| Wireless Leiden        | Leiden, Netherlands        | <https://wirelessleiden.nl/en>   | -                                     |
-| WirelessPT             | Portugal                   | <https://wirelesspt.net/?hl=en>  | <https://twitter.com/wirelesspt>      |
-| Wireless Toronto       | Toronto, Canada            | <http://wirelesstoronto.ca/>     | <https://twitter.com/wirelesstoronto> |
+| Wireless Leiden        | Leiden, Netherlands        | <https://wirelessleiden.nl>      | -                                     |
+| WirelessPT             | Portugal                   | <https://wirelesspt.net>         | <https://twitter.com/wirelesspt>      |
+| Wireless Toronto       | Toronto, Canada            | <http://wirelesstoronto.ca>      | <https://twitter.com/wirelesstoronto> |
 | WLAN Slovenia          | Slovenia                   | <https://wlan-si.net>            | <https://twitter.com/wlanslovenija>   |
 | Zenzeleni              | South Africa               | <https://zenzeleni.net>          | <https://twitter.com/zenzeleninet>    |
