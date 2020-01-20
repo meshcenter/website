@@ -24,7 +24,7 @@ If you know of any networks not on this list please <a href="mailto:contact@mesh
 | MetaMesh               | Pittsburg, Pennsylvania    | <https://www.metamesh.org>       | <https://twitter.com/MetaMeshWC>      |
 | Network Bogota         | Bogota, Colombia           | <https://networkbogota.org>      | <https://twitter.com/Network_Bogota>  |
 | Ninux                  | Italy                      | <http://ninux.org>               | <https://twitter.com/ninuxorg>        |
-| NH Mesh                | Keene, New Hampshire       | -                                | <https://twitter.com/nhmesh_org>      |
+| NH Mesh                | Keene, New Hampshire       | <http://nhmesh.org/>             | <https://twitter.com/nhmesh_org>      |
 | NYC Mesh               | New York City              | <https://www.nycmesh.net>        | <https://twitter.com/nycmesh>         |
 | Personal Telco         | Portland, Oregon           | <https://personaltelco.net>      | <https://twitter.com/personaltelco>   |
 | People's Open          | Oakland, California        | <https://peoplesopen.net>        | <https://twitter.com/pplsopennet>     |
