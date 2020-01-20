@@ -5,7 +5,9 @@ description = ""
 
 # List of Community Mesh Networks
 
-If you know of any community mesh networks not on this list, please <a href="mailto:contact@meshcenter.org">let us know</a>!
+If you know of any networks not on this list please <a href="mailto:contact@meshcenter.org">let us know</a>!
+
+<br />
 
 | Name           | Location                   | Website                          | Twitter                              |
 | :------------- | :------------------------- | :------------------------------- | :----------------------------------- |
