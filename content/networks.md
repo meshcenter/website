@@ -7,6 +7,8 @@ description = ""
 
 If you know of any networks not on this list please <a href="mailto:contact@meshcenter.org">let us know</a>!
 
+You may also be interested in our [Twitter list](https://twitter.com/meshcenter/lists/community-mesh-networks).
+
 <br />
 
 | Name                   | Location                   | Website                          | Twitter                               |
