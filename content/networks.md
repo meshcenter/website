@@ -5,7 +5,7 @@ description = ""
 
 # List of Community Mesh Networks
 
-If you know of any networks not on this list please <a href="mailto:contact@meshcenter.org">let us know</a>!
+If you know of any networks not on this list please <a href="https://keybase.io/team/meshcenter">let us know</a>!
 
 You may also be interested in our [Twitter list](https://twitter.com/meshcenter/lists/community-mesh-networks).
 

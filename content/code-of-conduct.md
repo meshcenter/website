@@ -32,7 +32,7 @@ Meshers are held to the standards outlined in this code of conduct when interact
 
 In addition, the MC community and experience often extends outside those spaces — Meshers go on walks together to get lunch near the space, attend meetups or conferences as a group, and communicate on social media. Abusive or unwelcoming behavior between Meshers still has a profound impact on individuals and on the community when it happens beyond our walls. MC faculty will use our discretion when deciding whether to enforce this code of conduct and potentially remove someone from the MC community after reports of such behavior happening outside of MC, taking into account the impact on the individual Meshers involved as well as the impact on the community at large.
 
-When in doubt, please [report](contact@meshcenter.org) unacceptable behavior to us. If someone’s behavior outside of MC makes you feel unsafe at MC, that is absolutely relevant and actionable for us.
+When in doubt, please [report](https://keybase.io/team/meshcenter) unacceptable behavior to us. If someone’s behavior outside of MC makes you feel unsafe at MC, that is absolutely relevant and actionable for us.
 
 ## Enforcement
 
