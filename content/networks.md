@@ -21,6 +21,7 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 | Freifunk               | Germany                    | <https://freifunk.net>           | <https://twitter.com/freifunk>        |
 | Funkfeuer              | Austria                    | <https://funkfeuer.at>           | <https://twitter.com/funkfeuer_at>    |
 | HNL Mesh               | Honolulu, Hawaii           | <http://www.hnlmesh.net>         | <https://twitter.com/HNLMesh>         |
+| LAX Mesh               | Los Angeles                | <https://laxmesh.net>            | -                                     |
 | Mesh 129               | Lane County, Oregon        | <https://mesh129.net>            | <https://twitter.com/mesh129net>      |
 | Meshnet PY             | Pondicherry, India         | <https://pymeshnet.gitlab.io>    | <https://twitter.com/pymesh>          |
 | MetaMesh               | Pittsburg, Pennsylvania    | <https://www.metamesh.org>       | <https://twitter.com/MetaMeshWC>      |
