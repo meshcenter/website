@@ -22,17 +22,20 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 | Funkfeuer              | Austria                    | <https://funkfeuer.at>           | <https://twitter.com/funkfeuer_at>    |
 | HNL Mesh               | Honolulu, Hawaii           | <http://www.hnlmesh.net>         | <https://twitter.com/HNLMesh>         |
 | LAX Mesh               | Los Angeles                | <https://laxmesh.net>            | -                                     |
+| Mass Mesh              | Boston                     | <https://massmesh.org>           | -                                     |
 | Mesh 129               | Lane County, Oregon        | <https://mesh129.net>            | <https://twitter.com/mesh129net>      |
 | Meshnet PY             | Pondicherry, India         | <https://pymeshnet.gitlab.io>    | <https://twitter.com/pymesh>          |
 | MetaMesh               | Pittsburg, Pennsylvania    | <https://www.metamesh.org>       | <https://twitter.com/MetaMeshWC>      |
 | Network Bogota         | Bogota, Colombia           | <https://networkbogota.org>      | <https://twitter.com/Network_Bogota>  |
+| Newport Mesh           | Newport, Vermont           | <https://newportmesh.org>        | -                                     |
 | Ninux                  | Italy                      | <http://ninux.org>               | <https://twitter.com/ninuxorg>        |
-| NH Mesh                | Keene, New Hampshire       | <http://nhmesh.org/>             | <https://twitter.com/nhmesh_org>      |
+| NH Mesh                | Keene, New Hampshire       | <http://nhmesh.org>              | <https://twitter.com/nhmesh_org>      |
 | NYC Mesh               | New York City              | <https://www.nycmesh.net>        | <https://twitter.com/nycmesh>         |
 | Personal Telco         | Portland, Oregon           | <https://personaltelco.net>      | <https://twitter.com/personaltelco>   |
 | People's Open          | Oakland, California        | <https://peoplesopen.net>        | <https://twitter.com/pplsopennet>     |
 | Philly Mesh            | Philadelphia, Pennsylvania | <https://phillymesh.net>         | <https://twitter.com/phillymesh>      |
 | Pjodd                  | Malmö, Sweden              | <https://pjodd.se>               | -                                     |
+| Red Hook WiFi          | Red Hook, New York City    | <https://redhookwifi.org>        | <https://twitter.com/redhookwifi>     |
 | Redes AC México        | Mexico City, México        | <https://www.redesac.org.mx>     | <https://twitter.com/redesac_mx>      |
 | Santoporo.gr           | Santoporo, Greece          | <https://www.sarantaporo.gr>     | <https://twitter.com/Sarantaporogr>   |
 | SOWN                   | Southampton, UK            | <https://www.sown.org.uk>        | -                                     |
