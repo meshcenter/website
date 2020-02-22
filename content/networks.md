@@ -39,6 +39,7 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 | Red Hook WiFi          | Red Hook, New York City    | <https://redhookwifi.org>        | <https://twitter.com/redhookwifi>     |
 | Redes AC México        | Mexico City, México        | <https://www.redesac.org.mx>     | <https://twitter.com/redesac_mx>      |
 | Santoporo.gr           | Santoporo, Greece          | <https://www.sarantaporo.gr>     | <https://twitter.com/Sarantaporogr>   |
+| SB Mesh                | Santa Barbara, California  | <http://sbmesh.net>              | <https://twitter.com/sbmeshnet>       |
 | SOWN                   | Southampton, UK            | <https://www.sown.org.uk>        | -                                     |
 | Spokane Mesh           | Spokane, Washington        | <https://spokanemesh.net>        | <https://twitter.com/spokanemesh>     |
 | SudoMesh               | Oakland, California        | <https://sudoroom.org/wiki/Mesh> | <https://twitter.com/sudomesh>        |
