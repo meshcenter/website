@@ -13,6 +13,7 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 
 | Name                   | Location                   | Website                               | Twitter                               |
 | :--------------------- | :------------------------- | :------------------------------------ | :------------------------------------ |
+| Air-Stream             | Adelaide, Australia        | <https://air-stream.org>              | <https://twitter.com/AirStreamWiFi>   |
 | AWMN                   | Athens, Greece             | <http://www.awmn.net>                 | -                                     |
 | B4RN                   | Rural North, England       | <https://b4rn.org.uk>                 | <https://twitter.com/dig2agig>        |
 | Chebucto Community Net | Halifax, Canada            | <http://www.chebucto.ns.ca>           | <https://twitter.com/chebuctocommnet> |
