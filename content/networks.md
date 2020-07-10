@@ -37,6 +37,7 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 | Personal Telco         | Portland, Oregon           | <https://personaltelco.net>           | <https://twitter.com/personaltelco>   |
 | People's Open          | Oakland, California        | <https://peoplesopen.net>             | <https://twitter.com/pplsopennet>     |
 | Philly Mesh            | Philadelphia, Pennsylvania | <https://phillymesh.net>              | <https://twitter.com/phillymesh>      |
+| Project Waves          | Baltimore, Maryland        | <https://projectwaves.net>            | <https://twitter.com/WavesMesh>       |
 | Pjodd                  | Malmö, Sweden              | <https://pjodd.se>                    | -                                     |
 | Red Hook WiFi          | Red Hook, New York City    | <https://redhookwifi.org>             | <https://twitter.com/redhookwifi>     |
 | Redes AC México        | Mexico City, México        | <https://www.redesac.org.mx>          | <https://twitter.com/redesac_mx>      |
