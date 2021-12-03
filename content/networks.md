@@ -34,6 +34,7 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 | Ninux                  | Italy                      | <http://ninux.org>                    | <https://twitter.com/ninuxorg>        |
 | NH Mesh                | Keene, New Hampshire       | <http://nhmesh.org>                   | <https://twitter.com/nhmesh_org>      |
 | NYC Mesh               | New York City              | <https://www.nycmesh.net>             | <https://twitter.com/nycmesh>         |
+| OpenISP                | Los Angeles, California    | <https://openisp.org/>                |                                       |
 | Personal Telco         | Portland, Oregon           | <https://personaltelco.net>           | <https://twitter.com/personaltelco>   |
 | People's Open          | Oakland, California        | <https://peoplesopen.net>             | <https://twitter.com/pplsopennet>     |
 | Philly Mesh            | Philadelphia, Pennsylvania | <https://phillymesh.net>              | <https://twitter.com/phillymesh>      |
