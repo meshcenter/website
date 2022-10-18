@@ -48,6 +48,7 @@ You may also be interested in our [Twitter list](https://twitter.com/meshcenter/
 | Spokane Mesh           | Spokane, Washington        | <https://spokanemesh.net>             | <https://twitter.com/spokanemesh>     |
 | SudoMesh               | Oakland, California        | <https://sudoroom.org/wiki/Mesh>      | <https://twitter.com/sudomesh>        |
 | Toronto Mesh           | Toronto, Canada            | <https://tomesh.net>                  | <https://twitter.com/tomeshnet>       |
+| Tuscon Mesh            | Tuscon, Arizona            | <https://tucsonmesh.net>              | <https:/instagram.com/tucsonmesh>     |
 | Vancouver Mesh         | Vancouver, Canada          | <http://vanmesh.net>                  | <https://twitter.com/VanMeshNet>      |
 | Wireless Leiden        | Leiden, Netherlands        | <https://wirelessleiden.nl>           | -                                     |
 | WirelessPT             | Portugal                   | <https://wirelesspt.net>              | <https://twitter.com/wirelesspt>      |
